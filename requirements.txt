@@ -1,0 +1,5 @@
+twython==3.0.0
+flask==0.10.1
+peewee==2.8.0
+beautifulsoup4==4.4.1
+pyyaml
